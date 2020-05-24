@@ -41,8 +41,8 @@ img{
 }
 
 #but:hover{
-	background-color: yellow;
-	color: red;
+	background-color: blue;
+	color: white;
 	transition: 0.5s;
 }
 
